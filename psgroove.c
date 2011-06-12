@@ -657,3 +657,4 @@ void EVENT_USB_Device_StartOfFrame(void) { }
 void EVENT_USB_InitFailure(const uint8_t ErrorCode) { }
 void EVENT_USB_UIDChange(void) {}
 
+//can I have a wirte permissions ?
